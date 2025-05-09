@@ -1,3 +1,8 @@
+# =============================================  
+# Hand Gesture Air Canvas with OCR & Image Recognition  
+# Author: Ananthakrishnan(@Ananthucyher)  
+# Date:24-04-2025  
+# ============================================= 
 import cv2
 import numpy as np
 import mediapipe as mp
